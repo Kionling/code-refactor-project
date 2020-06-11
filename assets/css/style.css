@@ -212,3 +212,9 @@ p {
     float: right;
     margin: 10px;
 }
+
+/* created css attributes for the search engine image */
+.socialmedia {
+    float: left;
+    margin: 20px;
+}
