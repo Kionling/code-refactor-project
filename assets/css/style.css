@@ -198,3 +198,8 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+.searchengine {
+    float: left;
+    margin: 20px;
+}
