@@ -3,5 +3,5 @@ We are given a line of code that needs multiple adjustments. These adjustments m
 
 ## Site picture
 
-![Top-home-screen](Screen Shot 2020-06-10 at 11.11.51 PM.png)
+![Top-home-screen](/Users/danieljauregui/Desktop/code-refactor-project/Screen Shot 2020-06-10 at 11.11.51 PM.png)
 
