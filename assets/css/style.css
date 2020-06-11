@@ -199,7 +199,16 @@ p {
     font-size: 20px;
 }
 
+/* created css attributes for the search engine image */
+
 .searchengine {
     float: left;
+    margin: 20px;
+}
+
+/* created onlinereputation css attributes for image, removed from html */
+
+.onlinerep {
+    float: right;
     margin: 20px;
 }
