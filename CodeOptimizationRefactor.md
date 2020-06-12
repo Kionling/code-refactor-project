@@ -43,6 +43,14 @@ code .
 ```
 
 
-## Built withh
-* [HTML] (https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
+## Built With
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Deployed Link
+* [See live site](https://kionling.github.io/code-refactor-project/)
+
+## Authors 
+* **Daniel Jauregui** 
+- [Link to github](https://github.com/Kionling)
+- [Link to LinkedIn](https://www.linkedin.com/in/daniel-jauregui-velazquez-b64a80172/)
